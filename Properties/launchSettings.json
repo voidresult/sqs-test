@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "sqs-test": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
